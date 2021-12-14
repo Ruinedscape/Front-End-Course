@@ -1,13 +1,17 @@
 # Front-End-Course
 Software Development Skills: Front-End 2021-22
+Joel Ketolainen
+
 
 How to run the project (or coursework)
 For the project:
 
 Download the MyProject folder. Go to the MyProject folder, then go to the dist folder and open index.html in your browser
+
 -> MyProject/dist/index.html
 
 For the course work:
+
 -> CourseWork/dist/index.html
 
 Alternatively you can see the project running over at https://ruinedscape.github.io/
